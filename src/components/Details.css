@@ -1,0 +1,15 @@
+.blog-img{
+    width: 850px;
+    height: 600px;
+    margin-bottom: 20px;
+}
+.topic-content{
+  color: #333;
+  font-size: 20px;
+  margin-left: 20px;
+  margin-bottom: 0;
+}
+.content {
+  color: #333;
+  font-size: 18px;
+}
